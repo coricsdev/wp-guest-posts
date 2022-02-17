@@ -34,21 +34,21 @@ a post from front side. You can create another page where all the posts created 
 ## Multidots Login
 
 ### login credentials
-##### Administrator user
+##### Administrator 
 - Login URL: 
 - User name: 
 - Password:
 
 
-##### Author role user
+##### Author 
 - Login URL: 
 - User name: 
 - Password:  
 
 ## Installation
 
-1. Upload the `guest-post` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1. Upload the `guest-post-multidots` folder to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu
 
 ## Shortcode
 
@@ -57,27 +57,22 @@ a post from front side. You can create another page where all the posts created 
 
 ## Usage Examples 
 
- After active plugin, you should create a new user from wp-admin dashboard with **Author role** or also you can use exist **author role** user's.
+Activate the plugin and create a new user from wp-admin dashboard with **Author role** or use existing **author role** user's.
 
 1. If user with <b>author role</b> not exist then go to wp-admin dashboard and create new user with author role.
-2. For add custom post type form go to wp-admin `dashboard` &#8594; `page` &#8594; `new page` or use existing page and add `[gp_add_post /]` in post editor or  gutenberg shortcode block. 
-4. Show the list of posts which are in pending status for admin approval showing go to wp-admin `dashboard` &#8594; `page` &#8594; `new page` or use existing page and add `[gp_view_post /]` in post editor or  Gutenberg shortcode block.
+2. For adding the custom post type, go to wp-admin `dashboard` &#8594; `page` &#8594; `new page` or use existing page and add `[gp_add_post /]` in post editor or  gutenberg shortcode block. 
+3. Show the list of posts which are in pending status for admin approval showing go to wp-admin `dashboard` &#8594; `page` &#8594; `new page` or use existing page and add `[gp_view_post /]` in post editor or  Gutenberg shortcode block.
 
-
-## Frequently Asked Questions
 
 
 ## Screenshots
 
 
 * ### Add guest post form
-![GitHub Logo]()
+![GitHub Logo](http://testing.dadizrico.com/wp-content/uploads/2022/02/add-post.png)
 
 * ### Pending status for admin approval post list
-![GitHub Logo]()
-
-* ### WP-CLI screen
-![GitHub Logo]()
+![GitHub Logo](http://testing.dadizrico.com/wp-content/uploads/2022/02/email-admin-approval.png)
 
 
 ## Change log
