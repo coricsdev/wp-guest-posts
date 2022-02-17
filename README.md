@@ -35,15 +35,15 @@ a post from front side. You can create another page where all the posts created 
 
 ### login credentials
 ##### Admin
-- Login URL: 
-- User name: 
-- Password:
+- Login URL: http://testing.dadizrico.com/wp-admin
+- User name: md_admin
+- Password: admin1234
 
 
 ##### Author 
-- Login URL: 
-- User name: 
-- Password:  
+- Login URL: http://testing.dadizrico.com/wp-admin
+- User name: md_demo   
+- Password:  demo1234
 
 ## Installation
 
