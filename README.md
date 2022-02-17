@@ -27,14 +27,14 @@ a post from front side. You can create another page where all the posts created 
 
 
 ## Demo
-- Demo URL: 
-- Add guest post page: 
-- List guest post page: 
+- Demo URL: http://testing.dadizrico.com/
+- Add guest post page: http://testing.dadizrico.com/add-post/
+- View guest post page: http://testing.dadizrico.com/view-post/
 
 ## Multidots Login
 
 ### login credentials
-##### Administrator 
+##### Admin
 - Login URL: 
 - User name: 
 - Password:
@@ -59,7 +59,7 @@ a post from front side. You can create another page where all the posts created 
 
 Activate the plugin and create a new user from wp-admin dashboard with **Author role** or use existing **author role** user's.
 
-1. If user with <b>author role</b> not exist then go to wp-admin dashboard and create new user with author role.
+1. If user with <b>author role</b> doesnot exist then go to wp-admin dashboard and create new user with author role.
 2. For adding the custom post type, go to wp-admin `dashboard` &#8594; `page` &#8594; `new page` or use existing page and add `[gp_add_post /]` in post editor or  gutenberg shortcode block. 
 3. Show the list of posts which are in pending status for admin approval showing go to wp-admin `dashboard` &#8594; `page` &#8594; `new page` or use existing page and add `[gp_view_post /]` in post editor or  Gutenberg shortcode block.
 
