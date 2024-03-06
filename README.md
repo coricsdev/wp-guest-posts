@@ -47,7 +47,7 @@ a post from front side. You can create another page where all the posts created 
 
 ## Installation
 
-1. Upload the `guest-post-multidots` folder to the `/wp-content/plugins/` directory
+1. Upload the plugin folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu
 
 ## Shortcode
