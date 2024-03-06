@@ -65,16 +65,6 @@ Activate the plugin and create a new user from wp-admin dashboard with **Author 
 
 
 
-## Screenshots
-
-
-* ### Add guest post form
-![GitHub Logo](http://testing.dadizrico.com/wp-content/uploads/2022/02/add-post.png)
-
-* ### Pending status for admin approval post list
-![GitHub Logo](http://testing.dadizrico.com/wp-content/uploads/2022/02/email-admin-approval.png)
-
-
 ## Change log
 
 ## 1.0.0
