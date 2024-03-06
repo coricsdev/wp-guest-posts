@@ -31,7 +31,7 @@ a post from front side. You can create another page where all the posts created 
 - Add guest post page: http://testing.dadizrico.com/add-post/
 - View guest post page: http://testing.dadizrico.com/view-post/
 
-## Multidots Login
+## Demo Login
 
 ### login credentials
 ##### Admin
